@@ -1,4 +1,4 @@
-# AI+X 精英20班 学习作品集
+# Learning Portfolio
 
 > 从零到一，我如何与 AI 协作，在两周内完成从环境配置到产出三件作品的心路历程。
 
@@ -7,7 +7,7 @@
 
 ## 📖 项目概览
 
-这个仓库记录了我参与 **SIAS AI+X 精英20班** 前两周课程的全部学习成果。这是一个为混合专业背景（非计算机专业基础）的学生设计的课程，旨在通过“Vibe-Coding”（一种与AI即兴协作的编程方式），帮助大家建立与AI协作的基础能力。
+A two-week learning journey exploring AI-assisted development and vibe-coding workflows.
 
 在这两周里，我从一个AI协作的新手，逐步成长为一个能够独立使用AI工具、并总结出一套个人工作流的实践者。
 

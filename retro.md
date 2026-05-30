@@ -19,7 +19,7 @@
 
 ### K — Knowledge（我已知什么）
 
-- 通信工程大二，有一定技术基础，但 AI 工具使用经验为零
+- Some technical background, but zero AI tool experience at start
 - 对文件编码、终端操作等基础设施了解不够
 
 ### S — Situation（我面临什么处境）
